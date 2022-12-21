@@ -1,0 +1,235 @@
+[
+    {
+        "name": "ace",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-ace.svg",
+        "count": [
+            "1",
+            "4"
+        ]
+    },
+    {
+        "name": "aegis",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-aegis.svg",
+        "count": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "name": "arsenal",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-arsenal.svg",
+        "count": [
+            "1"
+        ]
+    },
+    {
+        "name": "brawler",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-brawler.svg",
+        "count": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "name": "defender",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-defender.svg",
+        "count": [
+            "2",
+            "4",
+            "6"
+        ]
+    },
+    {
+        "name": "duelist",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-duelist.svg",
+        "count": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "name": "forecaster",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-forecaster.svg",
+        "count": [
+            "1"
+        ]
+    },
+    {
+        "name": "hacker",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-hacker.svg",
+        "count": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "name": "heart",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-heart.svg",
+        "count": [
+            "2",
+            "4",
+            "6"
+        ]
+    },
+    {
+        "name": "mascot",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-mascot.svg",
+        "count": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "name": "prankster",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-prankster.svg",
+        "count": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "name": "recon",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-recon.svg",
+        "count": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "name": "renegade",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-renegade.svg",
+        "count": [
+            "3",
+            "6"
+        ]
+    },
+    {
+        "name": "spellslinger",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-spellslinger.svg",
+        "count": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "name": "sureshot",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-sureshot.svg",
+        "count": [
+            "2",
+            "4"
+        ]
+    },
+    {
+        "name": "admin",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-a.d.m.i.n.svg",
+        "count": [
+            "2",
+            "4",
+            "6"
+        ]
+    },
+    {
+        "name": "animasquad",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-anima-squad.svg",
+        "count": [
+            "3",
+            "5",
+            "7"
+        ]
+    },
+    {
+        "name": "civilian",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-civilian.svg",
+        "count": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "name": "corrupted",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-corrupted.svg",
+        "count": [
+            "1"
+        ]
+    },
+    {
+        "name": "gadgeteen",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-gadgeteens.svg",
+        "count": [
+            "3",
+            "5"
+        ]
+    },
+    {
+        "name": "lasercorps",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-lasercorps.svg",
+        "count": [
+            "3",
+            "6",
+            "9"
+        ]
+    },
+    {
+        "name": "mechaprime",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-mecha-prime.svg",
+        "count": [
+            "3",
+            "5"
+        ]
+    },
+    {
+        "name": "oxforce",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-ox-force.svg",
+        "count": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "name": "starguardian",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-star-guardian.svg",
+        "count": [
+            "3",
+            "5",
+            "7",
+            "9"
+        ]
+    },
+    {
+        "name": "supers",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-supers.svg",
+        "count": [
+            "3"
+        ]
+    },
+    {
+        "name": "threat",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-threat.svg",
+        "count": [
+            "1"
+        ]
+    },
+    {
+        "name": "underground",
+        "image": "https://cdn.mobalytics.gg/assets/common/icons/tft-synergies-set8/24-underground.svg",
+        "count": [
+            "3",
+            "5"
+        ]
+    }
+]

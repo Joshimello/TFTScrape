@@ -1,0 +1,542 @@
+[
+    {
+        "name": "Alistar",
+        "tier": "3",
+        "class": [
+            "oxforce",
+            "aegis",
+            "mascot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/alistar.jpg"
+    },
+    {
+        "name": "Annie",
+        "tier": "2",
+        "class": [
+            "spellslinger",
+            "gadgeteen",
+            "oxforce"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/annie.jpg"
+    },
+    {
+        "name": "Aphelios",
+        "tier": "5",
+        "class": [
+            "oxforce",
+            "arsenal",
+            "sureshot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/aphelios.jpg"
+    },
+    {
+        "name": "Ashe",
+        "tier": "1",
+        "class": [
+            "lasercorps",
+            "recon"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/ashe.jpg"
+    },
+    {
+        "name": "Aurelion Sol",
+        "tier": "4",
+        "class": [
+            "threat"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/aurelionsol.jpg"
+    },
+    {
+        "name": "Bel'Veth",
+        "tier": "4",
+        "class": [
+            "threat"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/belveth.jpg"
+    },
+    {
+        "name": "Blitzcrank",
+        "tier": "1",
+        "class": [
+            "admin",
+            "brawler"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/blitzcrank.jpg"
+    },
+    {
+        "name": "Camille",
+        "tier": "2",
+        "class": [
+            "admin",
+            "renegade"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/camille.jpg"
+    },
+    {
+        "name": "Cho'Gath",
+        "tier": "3",
+        "class": [
+            "threat"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/chogath.jpg"
+    },
+    {
+        "name": "Draven",
+        "tier": "2",
+        "class": [
+            "mechaprime",
+            "ace"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/draven.jpg"
+    },
+    {
+        "name": "Ekko",
+        "tier": "4",
+        "class": [
+            "starguardian",
+            "prankster",
+            "aegis"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/ekko.jpg"
+    },
+    {
+        "name": "Ezreal",
+        "tier": "2",
+        "class": [
+            "underground",
+            "recon"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/ezreal.jpg"
+    },
+    {
+        "name": "Fiddlesticks",
+        "tier": "5",
+        "class": [
+            "corrupted",
+            "threat"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/fiddlesticks.jpg"
+    },
+    {
+        "name": "Fiora",
+        "tier": "2",
+        "class": [
+            "duelist",
+            "oxforce"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/fiora.jpg"
+    },
+    {
+        "name": "Galio",
+        "tier": "1",
+        "class": [
+            "civilian",
+            "mascot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/galio.jpg"
+    },
+    {
+        "name": "Gangplank",
+        "tier": "1",
+        "class": [
+            "supers",
+            "duelist"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/gangplank.jpg"
+    },
+    {
+        "name": "Janna",
+        "tier": "5",
+        "class": [
+            "civilian",
+            "spellslinger",
+            "forecaster"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/janna.jpg"
+    },
+    {
+        "name": "Jax",
+        "tier": "3",
+        "class": [
+            "mechaprime",
+            "brawler"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/jax.jpg"
+    },
+    {
+        "name": "Jinx",
+        "tier": "2",
+        "class": [
+            "animasquad",
+            "prankster"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/jinx.jpg"
+    },
+    {
+        "name": "Kai'Sa",
+        "tier": "3",
+        "class": [
+            "starguardian",
+            "recon"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/kaisa.jpg"
+    },
+    {
+        "name": "Kayle",
+        "tier": "1",
+        "class": [
+            "underground",
+            "duelist"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/kayle.jpg"
+    },
+    {
+        "name": "LeBlanc",
+        "tier": "3",
+        "class": [
+            "admin",
+            "hacker",
+            "spellslinger"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/leblanc.jpg"
+    },
+    {
+        "name": "Lee Sin",
+        "tier": "2",
+        "class": [
+            "supers",
+            "brawler",
+            "heart"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/leesin.jpg"
+    },
+    {
+        "name": "Leona",
+        "tier": "5",
+        "class": [
+            "mechaprime",
+            "aegis",
+            "renegade"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/leona.jpg"
+    },
+    {
+        "name": "Lulu",
+        "tier": "1",
+        "class": [
+            "gadgeteen",
+            "heart"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/lulu.jpg"
+    },
+    {
+        "name": "Lux",
+        "tier": "1",
+        "class": [
+            "starguardian",
+            "spellslinger"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/lux.jpg"
+    },
+    {
+        "name": "Malphite",
+        "tier": "2",
+        "class": [
+            "supers",
+            "mascot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/malphite.jpg"
+    },
+    {
+        "name": "Miss Fortune",
+        "tier": "4",
+        "class": [
+            "animasquad",
+            "ace"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/missfortune.jpg"
+    },
+    {
+        "name": "Mordekaiser",
+        "tier": "5",
+        "class": [
+            "lasercorps",
+            "ace"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/mordekaiser.jpg"
+    },
+    {
+        "name": "Nasus",
+        "tier": "1",
+        "class": [
+            "animasquad",
+            "mascot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/nasus.jpg"
+    },
+    {
+        "name": "Nilah",
+        "tier": "3",
+        "class": [
+            "starguardian",
+            "duelist"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/nilah.jpg"
+    },
+    {
+        "name": "Nunu",
+        "tier": "5",
+        "class": [
+            "gadgeteen",
+            "mascot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/nunu.jpg"
+    },
+    {
+        "name": "Poppy",
+        "tier": "1",
+        "class": [
+            "gadgeteen",
+            "defender"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/poppy.jpg"
+    },
+    {
+        "name": "Rammus",
+        "tier": "3",
+        "class": [
+            "threat"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/rammus.jpg"
+    },
+    {
+        "name": "Rell",
+        "tier": "2",
+        "class": [
+            "starguardian",
+            "defender"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/rell.jpg"
+    },
+    {
+        "name": "Renekton",
+        "tier": "1",
+        "class": [
+            "lasercorps",
+            "brawler"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/renekton.jpg"
+    },
+    {
+        "name": "Riven",
+        "tier": "3",
+        "class": [
+            "animasquad",
+            "brawler",
+            "defender"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/riven.jpg"
+    },
+    {
+        "name": "Samira",
+        "tier": "4",
+        "class": [
+            "underground",
+            "sureshot",
+            "ace"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/samira.jpg"
+    },
+    {
+        "name": "Sejuani",
+        "tier": "4",
+        "class": [
+            "lasercorps",
+            "brawler"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/sejuani.jpg"
+    },
+    {
+        "name": "Senna",
+        "tier": "3",
+        "class": [
+            "lasercorps",
+            "sureshot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/senna.jpg"
+    },
+    {
+        "name": "Sett",
+        "tier": "4",
+        "class": [
+            "mechaprime",
+            "defender"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/sett.jpg"
+    },
+    {
+        "name": "Sivir",
+        "tier": "2",
+        "class": [
+            "civilian",
+            "sureshot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/sivir.jpg"
+    },
+    {
+        "name": "Sona",
+        "tier": "3",
+        "class": [
+            "underground",
+            "heart",
+            "spellslinger"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/sona.jpg"
+    },
+    {
+        "name": "Soraka",
+        "tier": "4",
+        "class": [
+            "admin",
+            "heart"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/soraka.jpg"
+    },
+    {
+        "name": "Sylas",
+        "tier": "1",
+        "class": [
+            "animasquad",
+            "renegade"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/sylas.jpg"
+    },
+    {
+        "name": "Syndra",
+        "tier": "5",
+        "class": [
+            "starguardian",
+            "heart"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/syndra.jpg"
+    },
+    {
+        "name": "Taliyah",
+        "tier": "4",
+        "class": [
+            "starguardian",
+            "spellslinger"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/taliyah.jpg"
+    },
+    {
+        "name": "Talon",
+        "tier": "1",
+        "class": [
+            "oxforce",
+            "renegade"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/talon.jpg"
+    },
+    {
+        "name": "Urgot",
+        "tier": "5",
+        "class": [
+            "threat"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/urgot.jpg"
+    },
+    {
+        "name": "Vayne",
+        "tier": "3",
+        "class": [
+            "animasquad",
+            "recon",
+            "duelist"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/vayne.jpg"
+    },
+    {
+        "name": "Vel'Koz",
+        "tier": "3",
+        "class": [
+            "threat"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/velkoz.jpg"
+    },
+    {
+        "name": "Vi",
+        "tier": "2",
+        "class": [
+            "underground",
+            "aegis",
+            "brawler"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/vi.jpg"
+    },
+    {
+        "name": "Viego",
+        "tier": "4",
+        "class": [
+            "oxforce",
+            "renegade"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/viego.jpg"
+    },
+    {
+        "name": "Wukong",
+        "tier": "1",
+        "class": [
+            "mechaprime",
+            "defender"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/wukong.jpg"
+    },
+    {
+        "name": "Yasuo",
+        "tier": "2",
+        "class": [
+            "lasercorps",
+            "duelist"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/yasuo.jpg"
+    },
+    {
+        "name": "Yuumi",
+        "tier": "2",
+        "class": [
+            "starguardian",
+            "heart",
+            "mascot"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/yuumi.jpg"
+    },
+    {
+        "name": "Zac",
+        "tier": "4",
+        "class": [
+            "threat"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/zac.jpg"
+    },
+    {
+        "name": "Zed",
+        "tier": "4",
+        "class": [
+            "lasercorps",
+            "duelist",
+            "hacker"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/zed.jpg"
+    },
+    {
+        "name": "Zoe",
+        "tier": "3",
+        "class": [
+            "gadgeteen",
+            "hacker",
+            "prankster"
+        ],
+        "image": "https://cdn.mobalytics.gg/assets/tft/images/champions/thumbnail/set8/zoe.jpg"
+    }
+]

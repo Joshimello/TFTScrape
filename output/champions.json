@@ -1,0 +1,542 @@
+[
+    {
+        "name": "Alistar",
+        "tier": "3",
+        "class": [
+            "oxforce",
+            "aegis",
+            "mascot"
+        ],
+        "image": "champions/Alistar.jpg"
+    },
+    {
+        "name": "Annie",
+        "tier": "2",
+        "class": [
+            "spellslinger",
+            "gadgeteen",
+            "oxforce"
+        ],
+        "image": "champions/Annie.jpg"
+    },
+    {
+        "name": "Aphelios",
+        "tier": "5",
+        "class": [
+            "oxforce",
+            "arsenal",
+            "sureshot"
+        ],
+        "image": "champions/Aphelios.jpg"
+    },
+    {
+        "name": "Ashe",
+        "tier": "1",
+        "class": [
+            "lasercorps",
+            "recon"
+        ],
+        "image": "champions/Ashe.jpg"
+    },
+    {
+        "name": "Aurelion Sol",
+        "tier": "4",
+        "class": [
+            "threat"
+        ],
+        "image": "champions/Aurelion Sol.jpg"
+    },
+    {
+        "name": "Bel'Veth",
+        "tier": "4",
+        "class": [
+            "threat"
+        ],
+        "image": "champions/Bel'Veth.jpg"
+    },
+    {
+        "name": "Blitzcrank",
+        "tier": "1",
+        "class": [
+            "admin",
+            "brawler"
+        ],
+        "image": "champions/Blitzcrank.jpg"
+    },
+    {
+        "name": "Camille",
+        "tier": "2",
+        "class": [
+            "admin",
+            "renegade"
+        ],
+        "image": "champions/Camille.jpg"
+    },
+    {
+        "name": "Cho'Gath",
+        "tier": "3",
+        "class": [
+            "threat"
+        ],
+        "image": "champions/Cho'Gath.jpg"
+    },
+    {
+        "name": "Draven",
+        "tier": "2",
+        "class": [
+            "mechaprime",
+            "ace"
+        ],
+        "image": "champions/Draven.jpg"
+    },
+    {
+        "name": "Ekko",
+        "tier": "4",
+        "class": [
+            "starguardian",
+            "prankster",
+            "aegis"
+        ],
+        "image": "champions/Ekko.jpg"
+    },
+    {
+        "name": "Ezreal",
+        "tier": "2",
+        "class": [
+            "underground",
+            "recon"
+        ],
+        "image": "champions/Ezreal.jpg"
+    },
+    {
+        "name": "Fiddlesticks",
+        "tier": "5",
+        "class": [
+            "corrupted",
+            "threat"
+        ],
+        "image": "champions/Fiddlesticks.jpg"
+    },
+    {
+        "name": "Fiora",
+        "tier": "2",
+        "class": [
+            "duelist",
+            "oxforce"
+        ],
+        "image": "champions/Fiora.jpg"
+    },
+    {
+        "name": "Galio",
+        "tier": "1",
+        "class": [
+            "civilian",
+            "mascot"
+        ],
+        "image": "champions/Galio.jpg"
+    },
+    {
+        "name": "Gangplank",
+        "tier": "1",
+        "class": [
+            "supers",
+            "duelist"
+        ],
+        "image": "champions/Gangplank.jpg"
+    },
+    {
+        "name": "Janna",
+        "tier": "5",
+        "class": [
+            "civilian",
+            "spellslinger",
+            "forecaster"
+        ],
+        "image": "champions/Janna.jpg"
+    },
+    {
+        "name": "Jax",
+        "tier": "3",
+        "class": [
+            "mechaprime",
+            "brawler"
+        ],
+        "image": "champions/Jax.jpg"
+    },
+    {
+        "name": "Jinx",
+        "tier": "2",
+        "class": [
+            "animasquad",
+            "prankster"
+        ],
+        "image": "champions/Jinx.jpg"
+    },
+    {
+        "name": "Kai'Sa",
+        "tier": "3",
+        "class": [
+            "starguardian",
+            "recon"
+        ],
+        "image": "champions/Kai'Sa.jpg"
+    },
+    {
+        "name": "Kayle",
+        "tier": "1",
+        "class": [
+            "underground",
+            "duelist"
+        ],
+        "image": "champions/Kayle.jpg"
+    },
+    {
+        "name": "LeBlanc",
+        "tier": "3",
+        "class": [
+            "admin",
+            "hacker",
+            "spellslinger"
+        ],
+        "image": "champions/LeBlanc.jpg"
+    },
+    {
+        "name": "Lee Sin",
+        "tier": "2",
+        "class": [
+            "supers",
+            "brawler",
+            "heart"
+        ],
+        "image": "champions/Lee Sin.jpg"
+    },
+    {
+        "name": "Leona",
+        "tier": "5",
+        "class": [
+            "mechaprime",
+            "aegis",
+            "renegade"
+        ],
+        "image": "champions/Leona.jpg"
+    },
+    {
+        "name": "Lulu",
+        "tier": "1",
+        "class": [
+            "gadgeteen",
+            "heart"
+        ],
+        "image": "champions/Lulu.jpg"
+    },
+    {
+        "name": "Lux",
+        "tier": "1",
+        "class": [
+            "starguardian",
+            "spellslinger"
+        ],
+        "image": "champions/Lux.jpg"
+    },
+    {
+        "name": "Malphite",
+        "tier": "2",
+        "class": [
+            "supers",
+            "mascot"
+        ],
+        "image": "champions/Malphite.jpg"
+    },
+    {
+        "name": "Miss Fortune",
+        "tier": "4",
+        "class": [
+            "animasquad",
+            "ace"
+        ],
+        "image": "champions/Miss Fortune.jpg"
+    },
+    {
+        "name": "Mordekaiser",
+        "tier": "5",
+        "class": [
+            "lasercorps",
+            "ace"
+        ],
+        "image": "champions/Mordekaiser.jpg"
+    },
+    {
+        "name": "Nasus",
+        "tier": "1",
+        "class": [
+            "animasquad",
+            "mascot"
+        ],
+        "image": "champions/Nasus.jpg"
+    },
+    {
+        "name": "Nilah",
+        "tier": "3",
+        "class": [
+            "starguardian",
+            "duelist"
+        ],
+        "image": "champions/Nilah.jpg"
+    },
+    {
+        "name": "Nunu",
+        "tier": "5",
+        "class": [
+            "gadgeteen",
+            "mascot"
+        ],
+        "image": "champions/Nunu.jpg"
+    },
+    {
+        "name": "Poppy",
+        "tier": "1",
+        "class": [
+            "gadgeteen",
+            "defender"
+        ],
+        "image": "champions/Poppy.jpg"
+    },
+    {
+        "name": "Rammus",
+        "tier": "3",
+        "class": [
+            "threat"
+        ],
+        "image": "champions/Rammus.jpg"
+    },
+    {
+        "name": "Rell",
+        "tier": "2",
+        "class": [
+            "starguardian",
+            "defender"
+        ],
+        "image": "champions/Rell.jpg"
+    },
+    {
+        "name": "Renekton",
+        "tier": "1",
+        "class": [
+            "lasercorps",
+            "brawler"
+        ],
+        "image": "champions/Renekton.jpg"
+    },
+    {
+        "name": "Riven",
+        "tier": "3",
+        "class": [
+            "animasquad",
+            "brawler",
+            "defender"
+        ],
+        "image": "champions/Riven.jpg"
+    },
+    {
+        "name": "Samira",
+        "tier": "4",
+        "class": [
+            "underground",
+            "sureshot",
+            "ace"
+        ],
+        "image": "champions/Samira.jpg"
+    },
+    {
+        "name": "Sejuani",
+        "tier": "4",
+        "class": [
+            "lasercorps",
+            "brawler"
+        ],
+        "image": "champions/Sejuani.jpg"
+    },
+    {
+        "name": "Senna",
+        "tier": "3",
+        "class": [
+            "lasercorps",
+            "sureshot"
+        ],
+        "image": "champions/Senna.jpg"
+    },
+    {
+        "name": "Sett",
+        "tier": "4",
+        "class": [
+            "mechaprime",
+            "defender"
+        ],
+        "image": "champions/Sett.jpg"
+    },
+    {
+        "name": "Sivir",
+        "tier": "2",
+        "class": [
+            "civilian",
+            "sureshot"
+        ],
+        "image": "champions/Sivir.jpg"
+    },
+    {
+        "name": "Sona",
+        "tier": "3",
+        "class": [
+            "underground",
+            "heart",
+            "spellslinger"
+        ],
+        "image": "champions/Sona.jpg"
+    },
+    {
+        "name": "Soraka",
+        "tier": "4",
+        "class": [
+            "admin",
+            "heart"
+        ],
+        "image": "champions/Soraka.jpg"
+    },
+    {
+        "name": "Sylas",
+        "tier": "1",
+        "class": [
+            "animasquad",
+            "renegade"
+        ],
+        "image": "champions/Sylas.jpg"
+    },
+    {
+        "name": "Syndra",
+        "tier": "5",
+        "class": [
+            "starguardian",
+            "heart"
+        ],
+        "image": "champions/Syndra.jpg"
+    },
+    {
+        "name": "Taliyah",
+        "tier": "4",
+        "class": [
+            "starguardian",
+            "spellslinger"
+        ],
+        "image": "champions/Taliyah.jpg"
+    },
+    {
+        "name": "Talon",
+        "tier": "1",
+        "class": [
+            "oxforce",
+            "renegade"
+        ],
+        "image": "champions/Talon.jpg"
+    },
+    {
+        "name": "Urgot",
+        "tier": "5",
+        "class": [
+            "threat"
+        ],
+        "image": "champions/Urgot.jpg"
+    },
+    {
+        "name": "Vayne",
+        "tier": "3",
+        "class": [
+            "animasquad",
+            "recon",
+            "duelist"
+        ],
+        "image": "champions/Vayne.jpg"
+    },
+    {
+        "name": "Vel'Koz",
+        "tier": "3",
+        "class": [
+            "threat"
+        ],
+        "image": "champions/Vel'Koz.jpg"
+    },
+    {
+        "name": "Vi",
+        "tier": "2",
+        "class": [
+            "underground",
+            "aegis",
+            "brawler"
+        ],
+        "image": "champions/Vi.jpg"
+    },
+    {
+        "name": "Viego",
+        "tier": "4",
+        "class": [
+            "oxforce",
+            "renegade"
+        ],
+        "image": "champions/Viego.jpg"
+    },
+    {
+        "name": "Wukong",
+        "tier": "1",
+        "class": [
+            "mechaprime",
+            "defender"
+        ],
+        "image": "champions/Wukong.jpg"
+    },
+    {
+        "name": "Yasuo",
+        "tier": "2",
+        "class": [
+            "lasercorps",
+            "duelist"
+        ],
+        "image": "champions/Yasuo.jpg"
+    },
+    {
+        "name": "Yuumi",
+        "tier": "2",
+        "class": [
+            "starguardian",
+            "heart",
+            "mascot"
+        ],
+        "image": "champions/Yuumi.jpg"
+    },
+    {
+        "name": "Zac",
+        "tier": "4",
+        "class": [
+            "threat"
+        ],
+        "image": "champions/Zac.jpg"
+    },
+    {
+        "name": "Zed",
+        "tier": "4",
+        "class": [
+            "lasercorps",
+            "duelist",
+            "hacker"
+        ],
+        "image": "champions/Zed.jpg"
+    },
+    {
+        "name": "Zoe",
+        "tier": "3",
+        "class": [
+            "gadgeteen",
+            "hacker",
+            "prankster"
+        ],
+        "image": "champions/Zoe.jpg"
+    }
+]
