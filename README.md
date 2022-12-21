@@ -1,7 +1,7 @@
 # TFTScrape
-## Currently for set 8
 scraping some TFT data
 
+## Currently for set 8
 basic champion info in [output/champions.json](https://github.com/Joshimello/TFTScrape/blob/main/output/champions.json), [with image url](https://github.com/Joshimello/TFTScrape/blob/main/output/champions_url.json)  
 champion images in [output/champions/*.jpg](https://github.com/Joshimello/TFTScrape/blob/main/output/champions)  
 basic synergy info in [output/synergies.json](https://github.com/Joshimello/TFTScrape/blob/main/output/synergies.json), [with image url](https://github.com/Joshimello/TFTScrape/blob/main/output/synergies_url.json)  
