@@ -1,4 +1,5 @@
 # TFTScrape
+## Currently for set 8
 scraping some TFT data
 
 basic champion info in [output/champions.json](https://github.com/Joshimello/TFTScrape/blob/main/output/champions.json), [with image url](https://github.com/Joshimello/TFTScrape/blob/main/output/champions_url.json)  
